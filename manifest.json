@@ -1,0 +1,19 @@
+{
+    "name": "Color Automation Panel",
+    "id": "",
+    "api": "1.0.0",
+    "main": "src/plugin/controller.ts",
+    "ui": "src/ui/index.html",
+    "capabilities": [],
+    "enableProposedApi": false,
+    "editorType": [
+        "figma"
+    ],
+    "uiAssetUrl": "",
+    "menu": [
+        {
+            "command": "code",
+            "name": "Open Color Automation Panel"
+        }
+    ]
+}
